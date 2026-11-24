@@ -2,7 +2,7 @@
 
 ## Scope
 
-This repository hosts macOS release artifacts, checksums, and release notes for **FlowClone**. Application source code is maintained privately.
+This repository hosts macOS release artifacts, checksums, and release notes for **FlowClone**. Application source code is published in [KilianTheMagnificent/flowclone](https://github.com/KilianTheMagnificent/flowclone) (see its [SECURITY.md](https://github.com/KilianTheMagnificent/flowclone/blob/main/SECURITY.md) for app-level security reporting).
 
 ## Reporting a Vulnerability
 
